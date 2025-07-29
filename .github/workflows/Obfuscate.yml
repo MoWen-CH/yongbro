@@ -36,7 +36,7 @@ jobs:
             --dead-code-injection false \
             --identifier-names-generator mangled \
             --rename-globals false \
-            --string-array true \
+            --string-array false \
             --string-array-encoding 'rc4' \
             --string-array-threshold 0.75 \
             --transform-object-keys true \
